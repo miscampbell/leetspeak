@@ -11,6 +11,10 @@ var map = {
 };
 
 module.exports = function (str) {
+   if (str === null || typeof str === 'undefined') {
+      return;
+   }
+
    var newStr = '';
 
    for (var i = 0; i < str.length; i++) {
