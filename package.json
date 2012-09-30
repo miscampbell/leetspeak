@@ -1,5 +1,6 @@
 {
   "name": "leetspeak",
+  "author": "Joe Andaverde",
   "version": "0.0.1",
   "description": "Converts a string to the leetspeak equivelant.",
   "main": "index.js",
@@ -9,6 +10,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/joeandaverde/leetspeak.git"
-  },
-  "license": "BSD"
+  }
 }
